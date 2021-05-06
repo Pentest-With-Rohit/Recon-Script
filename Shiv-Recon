@@ -1200,7 +1200,7 @@ showreadme()
 #use curl to show the readme file
 #i should probably add a check for a local copy
 {
-curl -s https://raw.githubusercontent.com/GinjaChris/shiv-recon/master/README.md | more
+curl -s https://raw.githubusercontent.com/Shiv-Ninja/Recon-Script/main/Shiv-Recon | more
 }
 ##END SHOWREADME##
 ##################
