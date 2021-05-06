@@ -1266,7 +1266,7 @@ figlet -w 100 Shiv-Recon
 
 echo ""
 echo "Welcome to Shiv-Recon!"
-echo "Please report all bugs, improvements and suggestions to "
+echo "Please report all bugs, improvements and suggestions to https://github.com/Shiv-Ninja/Recon-Script/issues "
 echo "This software is only for responsible, authorised use."
 echo "YOU are responsible for your own actions!"
 echo "Please review the readme at  before proceeding"
