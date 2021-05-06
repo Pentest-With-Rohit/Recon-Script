@@ -1,11 +1,11 @@
-# Shiv-Recon
+# Shiv-Recon 🙂🙂🙂
 
 
 **A bash select menu for quick and easy network recon and DOS attacks**
 
 
 Sudo is implemented where necesssary.
-Tested on Debian and Arch.🙂🙂🙂🙂
+Tested on Debian and Arch🙂🙂🙂🙂
 
 ## Requirements:
 
@@ -37,7 +37,7 @@ Tested on Debian and Arch.🙂🙂🙂🙂
 - Download the script:
 
 ```
-$ 
+$ wget https://github.com/Shiv-Ninja/Recon-Script
 ```
 
 - Make it executable:
@@ -56,7 +56,7 @@ Alternatively, download the latest release from , extract it and run the script.
 Or use git clone:
 
 ```
-git clone 
+git clone https://github.com/Shiv-Ninja/Recon-Script
 ```
 
 ## Module detail
