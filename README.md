@@ -65,3 +65,6 @@ git clone https://github.com/Shiv-Ninja/Recon-Script
 Coming Soon....
 ```
 
+## Contributing
+
+- Pull Requests are welcome! :slightly_smiling_face:
